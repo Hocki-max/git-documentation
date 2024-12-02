@@ -1,0 +1,2 @@
+# pull
+in Pull Request ist ein Vorschlag zum Zusammenführen einer Reihe von Änderungen von einem Branch in einen anderen. In einem Pull Request können Projektmitarbeiter die vorgeschlagenen Änderungen überprüfen und besprechen, bevor sie die Änderungen in die Standard-Codebasis integrieren. Pull Requests zeigen die Unterschiede zwischen dem Inhalt in der Quellbranch und dem Inhalt in der Zielbranch an.
